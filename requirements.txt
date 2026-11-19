@@ -1,0 +1,10 @@
+# Select Python 3.12 in Streamlit Community Cloud Advanced settings.
+streamlit==1.67.0
+pillow>=10.0
+imagehash>=4.3
+pandas>=2.0
+plotly>=5.18
+folium>=0.16
+streamlit-folium>=0.20
+opencv-python>=4.9,<6
+ultralytics==8.4.215
